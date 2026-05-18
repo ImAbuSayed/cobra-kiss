@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cobra-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Cobra Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cobra-kiss/) |
+| **Get License** | [Music Rights & Licensing for Cobra Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cobra-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `ddf18dab64f05a1299c8074faa5cd5d2509da9305d14e14ef3b40e14057a18e6` |
 | **Timestamp** | May 18, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
