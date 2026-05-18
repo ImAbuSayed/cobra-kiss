@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/cobra-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Cobra Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cobra-kiss/) |
+| **Get License** | [Secure Licensing Rights for Cobra Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/cobra-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Teri akhiyan ch zehar, baby cobra kiss
+> Mainu chad gaya nasha, I can never resist
+> Dil dhak-dhak kare, when you looking like this
+> Sari duniya nu chhad, you're the one that I miss
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
